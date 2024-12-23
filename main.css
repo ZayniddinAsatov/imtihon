@@ -1,0 +1,74 @@
+.ota{
+    background-color:yellow ;
+}
+h1{
+    background-color: rgb(150, 138, 226);
+    border-radius: 20px;
+    text-align: center;
+    border: red solid 3px;
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.ona{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.uka{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.amma{
+    color: green;
+}
+.text{
+    width: 1400px;
+    height: 30px;
+}
+.aka{
+    color: green;
+}
+.left{
+    text-align: left;
+}
+button{
+    color: white;
+    background-color: rgb(63, 104, 145);
+    width: 200px;
+    height: 30px;
+}
+.amaki{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.yashil{
+    color: white;background-color: green;
+}
+.kok{
+    color: white; background-color: blue;
+}
+.qizil{
+    color: white; background-color: red;
+}
+.qora{
+    color: white; background-color: black;
+}
+table{
+    width: 1400px;
+}
+tr{
+    text-align: center;
+}
+text{
+    width: 1400px;
+}
+.xola{
+    width: 1400px;
+    height: 30px;
+}
